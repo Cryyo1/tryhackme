@@ -63,7 +63,7 @@ by OJ Reeves (@TheColonial) & Christian Mehlmauer (@_FireFart_)
 
 
 
-## Task3 
+## Task3 : Getting a shell
 
 1. setup a netcat listener on the attacker machine
 ```
@@ -88,7 +88,7 @@ THM{y0u_g0t_a_sh3ll}
 
 ```
 
-## Task4:
+## Task4:  Privilege escalation
 
 ### 1. Search for files with SUID permission, which file is weird: /usr/bin/python
 
